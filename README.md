@@ -1,7 +1,7 @@
 # AeroDPO: Unleashing Lightweight UAV Navigation with High-Fidelity Perception and Automated Preference Optimization
 
 <p align="center">
-  <!-- TODO: add teaser figure, e.g. <img src="docs/assets/teaser_figure.png" width="1000" title="AeroDPO"> -->
+  <img src="docs/assets/teaser_figure.png" width="1000" title="AeroDPO">
 </p>
 
 ## 📖 Abstract
